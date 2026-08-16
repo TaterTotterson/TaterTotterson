@@ -57,7 +57,6 @@ Voice, vision, memory, and automation run locally on the user's own hardware.
 | [Little Spud WebUI](https://github.com/TaterTotterson/Little-Spud-WebUI) | Lightweight browser client for connecting to Tater through Spud Link. |
 | [Tater Tunnel](https://github.com/TaterTotterson/Tater_Tunnel) | Private, user-controlled remote access for securely reaching a Tater hub and connected devices from outside the home. |
 | [Home Assistant Add-ons](https://github.com/TaterTotterson/hassio-addons-tater) | Packages Tater and its supporting services for installation through the Home Assistant Add-on Store. |
-| [Cortana AI for XBMC4Xbox](https://github.com/TaterTotterson/skin.cortana.ai-xbmc) | Brings Tater chat, recommendations, smart-home control, and modern connected features to the original Xbox. |
 
 ### Music, video, and retro media
 
@@ -65,6 +64,7 @@ Voice, vision, memory, and automation run locally on the user's own hardware.
 | --- | --- |
 | [Tater Tube](https://github.com/TaterTotterson/Tater-Tube) | Retro VCR-style frontend for local media, live TV, media servers, and streamed games on Raspberry Pi. |
 | [Tater Tube Steam](https://github.com/TaterTotterson/Tater-Tube-Steam) | Open-source Linux x86_64 and Steam port of the Tater Tube experience. |
+| [Cortana AI for XBMC4Xbox](https://github.com/TaterTotterson/skin.cortana.ai-xbmc) | Brings Tater chat, recommendations, smart-home control, and modern connected features to the original Xbox. |
 | [Tater Tube Server](https://github.com/TaterTotterson/tater-tube-server) | Tater's music and media backend: indexes local libraries, powers Tape Deck and Tater Tube, manages players and queues, builds Tube TV channels, streams remote media, and provides optional hardware transcoding. |
 
 <div align="center">
