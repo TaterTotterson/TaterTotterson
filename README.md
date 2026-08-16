@@ -60,6 +60,7 @@ When Tater is configured with local models and local integrations, voice, vision
 | Repository | Role in Tater |
 | --- | --- |
 | [Tater Tube](https://github.com/TaterTotterson/Tater-Tube) | Retro VCR-style frontend for local media, live TV, media servers, and streamed games on Raspberry Pi. |
+| [Tater Tube Steam](https://github.com/TaterTotterson/Tater-Tube-Steam) | Open-source Linux x86_64 and Steam port of the Tater Tube experience. |
 | [Tater Tube Server](https://github.com/TaterTotterson/tater-tube-server) | Tater's music and media backend: indexes local libraries, powers Tape Deck and Tater Tube, manages players and queues, builds Tube TV channels, streams remote media, and provides optional hardware transcoding. |
 
 <div align="center">
