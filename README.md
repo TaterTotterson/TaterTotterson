@@ -47,12 +47,14 @@ Voice, vision, memory, and automation run locally on the user's own hardware.
 | [Tater Native Firmware](https://github.com/TaterTotterson/Tater-Native-Firmware) | Native voice-satellite firmware for supported embedded hardware. |
 | [Tater Linux Satellite](https://github.com/TaterTotterson/Tater-Linux-Satellite) | Voice and persistent-music satellite runtime for Linux computers, Raspberry Pi systems, and robots. |
 | [ThirdReality Voice Firmware](https://github.com/TaterTotterson/Tater-ThirdReality-Voice-Firmware) | Tater-native firmware, provisioning, signed OTA updates, and recovery support for the ThirdReality Voice & Music Assistant. |
+| [Home Assistant Satellite Bridge](https://github.com/TaterTotterson/Tater-Home-Assistant-Satellites) | Lets Tater Native voice satellites work directly with Home Assistant Assist. |
 
 ### Apps and connected experiences
 
 | Repository | Role in Tater |
 | --- | --- |
 | [Little Spud](https://github.com/TaterTotterson/Little-Spud-App) | Native iOS and Android companion apps for chat, voice, media, notifications, and remote access. |
+| [Little Spud WebUI](https://github.com/TaterTotterson/Little-Spud-WebUI) | Lightweight browser client for connecting to Tater through Spud Link. |
 | [Home Assistant Add-ons](https://github.com/TaterTotterson/hassio-addons-tater) | Packages Tater and its supporting services for installation through the Home Assistant Add-on Store. |
 | [Cortana AI for XBMC4Xbox](https://github.com/TaterTotterson/skin.cortana.ai-xbmc) | Brings Tater chat, recommendations, smart-home control, and modern connected features to the original Xbox. |
 
