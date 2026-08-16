@@ -48,6 +48,7 @@ Voice, vision, memory, and automation run locally on the user's own hardware.
 | [Tater Linux Satellite](https://github.com/TaterTotterson/Tater-Linux-Satellite) | Voice and persistent-music satellite runtime for Linux computers, Raspberry Pi systems, and robots. |
 | [ThirdReality Voice Firmware](https://github.com/TaterTotterson/Tater-ThirdReality-Voice-Firmware) | Tater-native firmware, provisioning, signed OTA updates, and recovery support for the ThirdReality Voice & Music Assistant. |
 | [Home Assistant Satellite Bridge](https://github.com/TaterTotterson/Tater-Home-Assistant-Satellites) | Lets Tater Native voice satellites work directly with Home Assistant Assist. |
+| [Tater Wake Words](https://github.com/TaterTotterson/Tater-Wake-Words) | Ready-to-use wake-word catalog with automated requests for users who cannot train their own models. |
 
 ### Apps and connected experiences
 
