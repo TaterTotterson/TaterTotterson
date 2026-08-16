@@ -37,7 +37,7 @@ Voice, vision, memory, and automation run locally on the user's own hardware.
 | --- | --- |
 | [Tater](https://github.com/TaterTotterson/Tater) | The Spud Hub: AI runtime, WebUI, voice, vision, memory, awareness, automations, music, portals, and device control. |
 | [Tater Shop](https://github.com/TaterTotterson/Tater_Shop) | Versioned catalog for Cores, Portals, and Verbas that add capabilities to Tater. |
-| [Tater Integrations](https://github.com/TaterTotterson/Tater_Integrations) | Installable connectors that add platforms and devices such as UniFi Protect and Home Assistant to Tater. |
+| [Tater Integrations](https://github.com/TaterTotterson/Tater_Integrations) | Installable connectors that let Tater discover, control, and interact with supported devices, platforms, and services. |
 | [TaterBench](https://github.com/TaterTotterson/TaterBench) | Repeatable accuracy and performance benchmarks for models used with Tater. |
 
 ### Voice and hardware
