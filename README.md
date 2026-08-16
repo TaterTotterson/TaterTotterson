@@ -3,7 +3,7 @@
     <img src="https://raw.githubusercontent.com/TaterTotterson/Tater/main/images/tater-logo-primary.png" alt="Tater AI Assistant" width="440">
   </a>
 
-  <h3>A local-first, self-hosted replacement for Siri and Alexa.</h3>
+  <h3>A fully local, self-hosted replacement for Siri and Alexa.</h3>
 
   <p>
     One assistant for voice, vision, memory, automations, smart-home control, music, messaging, and more—running on hardware you control.
@@ -19,15 +19,15 @@
 
 ## Meet Tater
 
-[Tater](https://github.com/TaterTotterson/Tater) is an open-source AI platform designed to provide the everyday experience of Siri or Alexa without locking the assistant, its personality, or its data to one cloud ecosystem.
+[Tater](https://github.com/TaterTotterson/Tater) is an open-source AI platform designed to provide the everyday experience of Siri or Alexa while keeping the assistant, its personality, and its data on hardware the user controls.
 
 - **Talk naturally from around the home** with dedicated voice satellites, wake words, reply playback, and multiroom audio.
-- **Choose the brain** by running models locally with llama.cpp, MLX, or Hugging Face Transformers—or connecting an OpenAI-compatible API.
+- **Choose the brain** by running local models with llama.cpp, MLX, Hugging Face Transformers, or another local model server.
 - **Give the assistant useful context** through memory, awareness, cameras, Face ID, people, event history, and searchable conversations.
 - **Make things happen** with automations, smart-home devices, notifications, media playback, and modular integrations.
 - **Reach Tater from almost anywhere** through companion apps, smart-home platforms, messaging services, voice hardware, and even an original Xbox.
 
-When Tater is configured with local models and local integrations, voice, vision, memory, and automation can remain on the user's own hardware. Cloud services remain optional for the features that need or benefit from them.
+Voice, vision, memory, and automation run locally on the user's own hardware.
 
 ## Featured projects
 
@@ -37,7 +37,7 @@ When Tater is configured with local models and local integrations, voice, vision
 | --- | --- |
 | [Tater](https://github.com/TaterTotterson/Tater) | The Spud Hub: AI runtime, WebUI, voice, vision, memory, awareness, automations, music, portals, and device control. |
 | [Tater Shop](https://github.com/TaterTotterson/Tater_Shop) | Versioned catalog for Cores, Portals, and Verbas that add capabilities to Tater. |
-| [Tater Integrations](https://github.com/TaterTotterson/Tater_Integrations) | Installable device, service, search-provider, media, and external-API integrations. |
+| [Tater Integrations](https://github.com/TaterTotterson/Tater_Integrations) | Installable device, service, search-provider, and media integrations. |
 | [TaterBench](https://github.com/TaterTotterson/TaterBench) | Repeatable accuracy and performance benchmarks for models used with Tater. |
 
 ### Voice and hardware
