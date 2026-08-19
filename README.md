@@ -14,6 +14,7 @@
     <a href="https://github.com/TaterTotterson/Tater"><img alt="Tater repository" src="https://img.shields.io/badge/GitHub-Tater-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
     <a href="https://tatertotterson.github.io/TaterBench/"><img alt="View TaterBench results" src="https://img.shields.io/badge/TaterBench-Model_Results-FF7A18?style=for-the-badge&logo=githubpages&logoColor=white"></a>
     <a href="https://apps.apple.com/app/little-spud/id6781400718"><img alt="Download Little Spud" src="https://img.shields.io/badge/App_Store-Little_Spud-0D96F6?style=for-the-badge&logo=apple&logoColor=white"></a>
+    <a href="https://play.google.com/store/apps/details?id=com.tatertotterson.littlespud.android"><img alt="Download Little Spud on Google Play" src="https://img.shields.io/badge/Google_Play-Little_Spud-34A853?style=for-the-badge&logo=googleplay&logoColor=white"></a>
   </p>
 </div>
 
