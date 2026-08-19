@@ -51,6 +51,7 @@ Voice, vision, memory, and automation run locally on the user's own hardware.
 | [Home Assistant Satellite Bridge](https://github.com/TaterTotterson/Tater-Home-Assistant-Satellites) | Lets Tater Native voice satellites work directly with Home Assistant Assist. |
 | [Tater Wake Words](https://github.com/TaterTotterson/Tater-Wake-Words) | Ready-to-use wake-word catalog with automated requests for users who cannot train their own models. |
 | [microWakeWord Trainer for Apple Silicon](https://github.com/TaterTotterson/microWakeWord-Trainer-AppleSilicon) | macOS app for training custom wake words, reviewing satellite captures, and flashing Tater Native firmware. |
+| [microWakeWord Trainer for NVIDIA Docker](https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker) | CUDA/Docker toolkit for training custom wake words, reviewing satellite captures, and flashing Tater Native firmware. |
 
 ### Apps and connected experiences
 
