@@ -25,9 +25,8 @@
 
 ## One owner-controlled ecosystem
 
-Tater Totterson builds open-source software around two closely connected
-experiences: a private assistant that can live throughout the home, and a
-personal media platform that brings a user's own collection to every screen.
+Tater and Tater Tube bring private AI, smart-home control, and personal media
+together on hardware you control.
 
 ### Tater Assistant
 
