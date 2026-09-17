@@ -42,12 +42,6 @@ Voice, vision, memory, and automation run locally on the user's own hardware.
 
 ### Tater Tube
 
-<div align="center">
-  <a href="https://tatertube.tv">
-    <img src="https://raw.githubusercontent.com/TaterTotterson/Tater-Tube-Player/main/assets/tater-tube-logo-leaning-transparent.png" alt="Tater Tube" width="520">
-  </a>
-</div>
-
 [Tater Tube Server](https://github.com/TaterTotterson/tater-tube-server) and
 [Tater Tube Player](https://github.com/TaterTotterson/Tater-Tube-Player) form a
 self-hosted media system for personal movies, television, music, and custom
