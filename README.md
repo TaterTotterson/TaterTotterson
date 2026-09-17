@@ -79,8 +79,8 @@ live channels.
 | --- | --- |
 | [Tater Tube Server](https://github.com/TaterTotterson/tater-tube-server) | Self-hosted media backend for local libraries, artwork and metadata, playback history, device-aware transcoding, and scheduled Tube TV channels. |
 | [Tater Tube Player](https://github.com/TaterTotterson/Tater-Tube-Player) | Unified modern player for Steam and Steam Deck, Apple TV, Google TV, and Android TV. |
-| [Tater Tube](https://github.com/TaterTotterson/Tater-Tube) | Original retro VCR-style Raspberry Pi frontend for local media, live TV, media servers, and streamed games. |
-| [Tater Tube Steam](https://github.com/TaterTotterson/Tater-Tube-Steam) | Active standalone Linux x86_64 installer for the retro Tater Tube experience, originally developed as a Steam port. |
+| [Tater Tube Retro — Raspberry Pi](https://github.com/TaterTotterson/Tater-Tube) | Ready-to-flash Raspberry Pi edition of the retro VCR-style player for personal media, live TV, media servers, games, and PC streaming. |
+| [Tater Tube Retro — Linux & Steam Deck](https://github.com/TaterTotterson/Tater-Tube-Steam) | Portable Linux x86_64 edition with Tater Tube Server, Plex, Emby, Jellyfin, Tape Deck, OTA TV, Game Center, and PC Link support. Its standalone installer can also add it to Steam as a non-Steam app. |
 | [Cortana AI for XBMC4Xbox](https://github.com/TaterTotterson/skin.cortana.ai-xbmc) | Tater chat, recommendations, smart-home control, and connected media features for the original Xbox. |
 
 ### Voice and hardware
