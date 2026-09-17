@@ -6,7 +6,7 @@
   <h3>Private AI, personal media, and connected-home software—running on hardware you control.</h3>
 
   <p>
-    Tater combines a local Siri/Alexa alternative with Tater Tube: a self-hosted media server and a family of modern TV players for your own movies, shows, music, and channels.
+    Explore Tater, a local Siri and Alexa alternative, and Tater Tube, a separate self-hosted media platform for your own movies, shows, music, and channels.
   </p>
 
   <p>
