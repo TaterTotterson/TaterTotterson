@@ -3,22 +3,33 @@
     <img src="https://raw.githubusercontent.com/TaterTotterson/Tater/main/images/tater-logo-primary.png" alt="Tater AI Assistant" width="440">
   </a>
 
-  <h3>A fully local, self-hosted replacement for Siri and Alexa.</h3>
+  <h3>Private AI, personal media, and connected-home software—running on hardware you control.</h3>
 
   <p>
-    One assistant for voice, vision, memory, automations, smart-home control, music, messaging, and more—running on hardware you control.
+    Tater combines a local Siri/Alexa alternative with Tater Tube: a self-hosted media server and a family of modern TV players for your own movies, shows, music, and channels.
   </p>
 
   <p>
     <a href="https://taterassistant.com"><img alt="Tater website" src="https://img.shields.io/badge/Website-taterassistant.com-FF7A18?style=for-the-badge"></a>
+    <a href="https://tatertube.tv"><img alt="Tater Tube website" src="https://img.shields.io/badge/Tater_Tube-tatertube.tv-FF7A18?style=for-the-badge"></a>
     <a href="https://github.com/TaterTotterson/Tater"><img alt="Tater repository" src="https://img.shields.io/badge/GitHub-Tater-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
+    <a href="https://github.com/TaterTotterson/Tater-Tube-Player"><img alt="Tater Tube Player repository" src="https://img.shields.io/badge/GitHub-Tater_Tube_Player-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
+  </p>
+
+  <p>
     <a href="https://tatertotterson.github.io/TaterBench/"><img alt="View TaterBench results" src="https://img.shields.io/badge/TaterBench-Model_Results-FF7A18?style=for-the-badge&logo=githubpages&logoColor=white"></a>
     <a href="https://apps.apple.com/app/little-spud/id6781400718"><img alt="Download Little Spud" src="https://img.shields.io/badge/App_Store-Little_Spud-0D96F6?style=for-the-badge&logo=apple&logoColor=white"></a>
     <a href="https://play.google.com/store/apps/details?id=com.tatertotterson.littlespud.android"><img alt="Download Little Spud on Google Play" src="https://img.shields.io/badge/Google_Play-Little_Spud-34A853?style=for-the-badge&logo=googleplay&logoColor=white"></a>
   </p>
 </div>
 
-## Meet Tater
+## One owner-controlled ecosystem
+
+Tater Totterson builds open-source software around two closely connected
+experiences: a private assistant that can live throughout the home, and a
+personal media platform that brings a user's own collection to every screen.
+
+### Tater Assistant
 
 [Tater](https://github.com/TaterTotterson/Tater) is an open-source AI platform designed to provide the everyday experience of Siri or Alexa while keeping the assistant, its personality, and its data on hardware the user controls.
 
@@ -30,6 +41,34 @@
 
 Voice, vision, memory, and automation run locally on the user's own hardware.
 
+### Tater Tube
+
+<div align="center">
+  <a href="https://tatertube.tv">
+    <img src="https://raw.githubusercontent.com/TaterTotterson/Tater-Tube-Player/main/assets/tater-tube-logo-leaning-transparent.png" alt="Tater Tube" width="520">
+  </a>
+</div>
+
+[Tater Tube Server](https://github.com/TaterTotterson/tater-tube-server) and
+[Tater Tube Player](https://github.com/TaterTotterson/Tater-Tube-Player) form a
+self-hosted media system for personal movies, television, music, and custom
+live channels.
+
+- **Own the server and the library.** Scan local media, use existing artwork and
+  NFO metadata, track playback progress, and keep player activity under the
+  user's control.
+- **Turn a collection into television.** Tube TV builds scheduled channels with
+  program guides, channel identities, bumpers, spots, and optional breaks.
+- **Watch on the couch.** The unified modern Player targets Steam and Steam
+  Deck, Apple TV, Google TV, and Android TV with controller- and remote-first
+  interfaces.
+- **Adapt playback to the screen.** The Player reports device capabilities so
+  the Server can direct play compatible media or convert only what the device
+  needs.
+- **Keep the personality.** Optional Tater Link features add Tater Picks,
+  explanations, and voice briefings, while the original retro Tater Tube
+  clients and standalone Linux edition remain active parts of the family.
+
 ## Featured projects
 
 ### Assistant platform
@@ -40,6 +79,16 @@ Voice, vision, memory, and automation run locally on the user's own hardware.
 | [Tater Shop](https://github.com/TaterTotterson/Tater_Shop) | Versioned catalog for Cores, Portals, and Verbas that add capabilities to Tater. |
 | [Tater Integrations](https://github.com/TaterTotterson/Tater_Integrations) | Installable connectors that let Tater discover, control, and interact with supported devices, platforms, and services. |
 | [TaterBench](https://github.com/TaterTotterson/TaterBench) | Repeatable accuracy and performance benchmarks for models used with Tater. |
+
+### Media server and players
+
+| Repository | Role in Tater Tube |
+| --- | --- |
+| [Tater Tube Server](https://github.com/TaterTotterson/tater-tube-server) | Self-hosted media backend for local libraries, artwork and metadata, playback history, device-aware transcoding, and scheduled Tube TV channels. |
+| [Tater Tube Player](https://github.com/TaterTotterson/Tater-Tube-Player) | Unified modern player for Steam and Steam Deck, Apple TV, Google TV, and Android TV. |
+| [Tater Tube](https://github.com/TaterTotterson/Tater-Tube) | Original retro VCR-style Raspberry Pi frontend for local media, live TV, media servers, and streamed games. |
+| [Tater Tube Steam](https://github.com/TaterTotterson/Tater-Tube-Steam) | Active standalone Linux x86_64 installer for the retro Tater Tube experience, originally developed as a Steam port. |
+| [Cortana AI for XBMC4Xbox](https://github.com/TaterTotterson/skin.cortana.ai-xbmc) | Tater chat, recommendations, smart-home control, and connected media features for the original Xbox. |
 
 ### Voice and hardware
 
@@ -62,23 +111,19 @@ Voice, vision, memory, and automation run locally on the user's own hardware.
 | [Tater Tunnel](https://github.com/TaterTotterson/Tater_Tunnel) | Private, user-controlled remote access for securely reaching a Tater hub and connected devices from outside the home. |
 | [Home Assistant Add-ons](https://github.com/TaterTotterson/hassio-addons-tater) | Packages Tater and its supporting services for installation through the Home Assistant Add-on Store. |
 
-### Music, video, and retro media
-
-| Repository | Role in Tater |
-| --- | --- |
-| [Tater Tube](https://github.com/TaterTotterson/Tater-Tube) | Retro VCR-style frontend for local media, live TV, media servers, and streamed games on Raspberry Pi. |
-| [Tater Tube Steam](https://github.com/TaterTotterson/Tater-Tube-Steam) | Open-source Linux x86_64 and Steam port of the Tater Tube experience. |
-| [Cortana AI for XBMC4Xbox](https://github.com/TaterTotterson/skin.cortana.ai-xbmc) | Brings Tater chat, recommendations, smart-home control, and modern connected features to the original Xbox. |
-| [Tater Tube Server](https://github.com/TaterTotterson/tater-tube-server) | Tater's music and media backend: indexes local libraries, powers Tape Deck and Tater Tube, manages players and queues, builds Tube TV channels, streams remote media, and provides optional hardware transcoding. |
-
 <div align="center">
   <a href="https://github.com/TaterTotterson?tab=repositories"><strong>Explore all Tater repositories →</strong></a>
 </div>
 
 ## The goal
 
-Tater is being built as an assistant that feels present throughout the home while remaining adaptable and owner-controlled. The hub, satellites, apps, integrations, and media projects are separate repositories so each piece can evolve independently—but together they form one assistant ecosystem.
+Tater is being built as an owner-controlled home platform: an assistant that
+feels present throughout the home and a media system that makes a personal
+collection feel at home on every screen. The hub, server, players, satellites,
+apps, and integrations live in separate repositories so each piece can evolve
+independently while remaining part of one ecosystem.
 
 <div align="center">
-  <strong>Start with <a href="https://github.com/TaterTotterson/Tater">Tater</a>, or explore the guides at <a href="https://taterassistant.com">taterassistant.com</a>.</strong>
+  <strong>Start with <a href="https://github.com/TaterTotterson/Tater">Tater</a> or <a href="https://github.com/TaterTotterson/tater-tube-server">Tater Tube Server</a>.</strong><br>
+  Explore <a href="https://taterassistant.com">taterassistant.com</a> and <a href="https://tatertube.tv">tatertube.tv</a>.
 </div>
