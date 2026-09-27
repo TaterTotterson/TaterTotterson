@@ -88,7 +88,7 @@ live channels.
 | Repository | Role in Tater |
 | --- | --- |
 | [Tater Native Firmware](https://github.com/TaterTotterson/Tater-Native-Firmware) | Native voice-satellite firmware for supported embedded hardware. |
-| [Tater Echo Firmware](https://github.com/TaterTotterson/Tater-Echo-Firmware) | Native Tater satellite firmware, factory installers, coordinated OTA updates, and the Echo Show display experience for supported Amazon Echo devices. |
+| [Tater Echo Firmware](https://github.com/TaterTotterson/Tater-Echo-Firmware) | Turns supported Amazon Echo devices into Tater voice satellites, with guided installation, OTA updates, and a custom Tater interface on Echo Show. |
 | [Tater Linux Satellite](https://github.com/TaterTotterson/Tater-Linux-Satellite) | Voice and persistent-music satellite runtime for Linux computers, Raspberry Pi systems, and robots. |
 | [ThirdReality Voice Firmware](https://github.com/TaterTotterson/Tater-ThirdReality-Voice-Firmware) | Tater-native firmware, provisioning, signed OTA updates, and recovery support for the ThirdReality Voice & Music Assistant. |
 | [Home Assistant Satellite Bridge](https://github.com/TaterTotterson/Tater-Home-Assistant-Satellites) | Lets Tater Native voice satellites work directly with Home Assistant Assist. |
