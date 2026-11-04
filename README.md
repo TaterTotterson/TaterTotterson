@@ -121,3 +121,9 @@ independently while remaining part of one ecosystem.
   <strong>Start with <a href="https://github.com/TaterTotterson/Tater">Tater</a> or <a href="https://github.com/TaterTotterson/tater-tube-server">Tater Tube Server</a>.</strong><br>
   Explore <a href="https://taterassistant.com">taterassistant.com</a> and <a href="https://tatertube.tv">tatertube.tv</a>.
 </div>
+
+## License and trademarks
+
+This project is licensed under the [GNU Affero General Public License v3.0](LICENSE).
+
+The Tater name and logo are governed by the [Tater Trademark Policy](TRADEMARKS.md).\n
